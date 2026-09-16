@@ -1,5 +1,9 @@
 # Install Insta360 Studio on Linux with Wine
 
+<p align="center">
+  <img src="insta360-studio-icon.jpg" width="96" alt="Insta360 Studio icon">
+</p>
+
 This guide explains how to install the Windows version of Insta360 Studio on Ubuntu-based Linux distributions using Wine. It was tested with Insta360 Studio v6.0.5.
 
 > [!IMPORTANT]  
